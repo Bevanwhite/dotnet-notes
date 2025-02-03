@@ -9,3 +9,5 @@ createconsole:
 
 runapp:
 	cd ${folder} && dotnet run
+
+# start-note/helloworld - make runapp folder=start-note/helloworld
